@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609031452532",
+    "project_id": "assignment-3-1b34e",
+    "storage_bucket": "assignment-3-1b34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609031452532:android:626bc8977a0bbd450a9e21",
+        "android_client_info": {
+          "package_name": "com.example.personalisedmobilepaindiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609031452532-k6tvi04kcvhhun7kkidebqugp1fq16vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7HA0zpE9nojlSEvmT-VZK3qYdfZJpTXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609031452532-k6tvi04kcvhhun7kkidebqugp1fq16vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
